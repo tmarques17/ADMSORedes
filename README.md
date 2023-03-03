@@ -11,4 +11,4 @@ Alunos - RA:
 * Thamara Caroline Marques  - 0040972211035
 
 Sobre:<br>
-Esse Repositório tem por finalidade relatar e documentar a atividade realizada pelo grupo no projeto da disciplina citada acima.
+Esse Repositório tem por finalidade relatar e documentar as atividade realizadas pelo grupo de alunos no projeto da disciplina citada acima.
