@@ -1,0 +1,11 @@
+*
+## Semana 1 
+  Thamara: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits, estudar/conhecer projeto. Criar grupo, escolher projeto, criar conta Github.
+
+
+## Semana 2
+  Thamara: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter o Grub instalado ela caia em shell.Instalar Grub no P.C. e configurar inicialização de sistema.
+  
+  
+## Semana 3
+  Thamara: 
