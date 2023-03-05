@@ -7,10 +7,12 @@ Caio
   To do:
 
 Karen
-  Done: 
-  Doing:
-  To do: 
-Neocimar
+  Done: Resolvi o problema da VM estar abrindo em shell
+  Doing: Tentando resolver o problema do meu teclado que não está respondendo corretamente.
+  To do: Trocar a configuração do teclado. Pesquisando qual é o formato do (Macbook Air early 2015)
+
+  
+Nelcimar
   Done:
   Doing:
   To do:
@@ -34,11 +36,11 @@ Caio
   To do:
 
 Karen
-  Done: 
+  Done: Criei minha conta do GitHub, tentei importar a VM para meu laptop mas não tive sucesso pois estava abrindo em Shell
   Doing:Resolvendo o problema da VM que estava abrindo em Shell.
-  To do: trocar a configuração do teclado. Pesquisando qual é o formato do (Macbook Air early 2015)
-
-Neocimar
+  To do: Trocar a configuração da VM e salvar para que ela abra normalmente
+  
+Nelcimar
   Done:
   Doing:
   To do:
