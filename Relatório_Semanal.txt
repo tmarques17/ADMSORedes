@@ -8,9 +8,8 @@ Caio
 
 Karen
   Done: 
-  Doing:Resolvendo o problema da VM que estava abrindo em Shell.
-  To do: trocar a configuração do teclado. Pesquisando qual é o formato do (Macbook Air early 2015)
-
+  Doing:
+  To do: 
 Neocimar
   Done:
   Doing:
@@ -59,7 +58,9 @@ Thamara
   Thamara: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter o Grub instalado ela caia em shell.Instalar Grub no P.C. e configurar inicialização de sistema.
   
   
+  
 ## Semana 1 
+Estamos formando o grupo e decidindo qual projeto iremos fazer.
   Thamara: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits, estudar/conhecer projeto. Criar grupo, escolher projeto, criar conta Github.
 
 
