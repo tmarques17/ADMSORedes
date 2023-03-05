@@ -1,5 +1,5 @@
 ##
-## Semana 4
+## Semana 4 08/04/23
 
 Caio
   Done:
@@ -28,7 +28,7 @@ Thamara
   To do:
 
 
-## Semana 3
+## Semana 3 01/04/23
 
 Caio
   Done:
@@ -56,12 +56,12 @@ Thamara
   To do:
 
 
-## Semana 2
+## Semana 2 15/02/23
   Thamara: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter o Grub instalado ela caia em shell.Instalar Grub no P.C. e configurar inicialização de sistema.
   
   
   
-## Semana 1 
+## Semana 1 08/02/2023
 Estamos formando o grupo e decidindo qual projeto iremos fazer.
   Thamara: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits, estudar/conhecer projeto. Criar grupo, escolher projeto, criar conta Github.
 
