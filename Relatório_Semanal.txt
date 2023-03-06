@@ -18,9 +18,9 @@ Nelcimar
   To do:
 
 Reginaldo
-  Done:
-  Doing:
-  To do:
+  Done:acesso
+  Doing:Editando
+  To do:ok
 
 Thamara
   Done:
