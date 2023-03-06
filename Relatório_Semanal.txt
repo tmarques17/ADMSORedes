@@ -13,9 +13,9 @@ Karen
 
   
 Nelcimar
-  Done:
-  Doing:
-  To do:
+  Done:  Intalações  dos pacotes completas
+  Doing: Pondo  em pratica o processo de inicializaação
+  To do: Teclado ainda desconfigurado
 
 Reginaldo
   Done:acesso
@@ -42,10 +42,10 @@ Karen
 
   
 Nelcimar
-  Done:
-  Doing:
-  To do:
-
+  Done: instalei a VM no notebook
+  Fazendo: Instalado os pacotes do ArchLinux
+  Pendência: Teclado não est  configurando algumas teclas
+  
 Reginaldo
   Done:
   Doing:
