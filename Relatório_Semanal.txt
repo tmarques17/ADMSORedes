@@ -1,5 +1,5 @@
 ##
-Semana 5 15/04/23
+Semana 5 08/03/23
 
 Caio
   Done:
@@ -28,7 +28,7 @@ Thamara
   To do:
 
 
-## Semana 4 08/04/23
+## Semana 4 01/03/23
 
 Caio
   Done:
@@ -52,12 +52,12 @@ Reginaldo
   To do:
 
 Thamara
-  Done:
-  Doing:
-  To do:
-
-
-## Semana 3 01/04/23
+  Done: Configurei inicialização do sistema. Atualizei o relatório. Estudei sobre os programas de incialização do Archlinux 64 bits. 
+  Doing: Atualizando relatório. Estudando tópicos do projeto.
+  To do: Conversar com o grupo para discutirmos tópicos do projeto - divisão tarefas/estudos.
+  
+  
+## Semana 3 22/02/23
 
 Caio
   Done:
@@ -80,18 +80,22 @@ Reginaldo
   To do:
 
 Thamara
-  Done:
-  Doing:
-  To do:
+  Done: Escolhemos a opção 1 de projeto, criamos conta no Github, enviamos formulário para o professor. Atualizamos o relatório.
+  Doing: Configurar inicialização do sistema da VM no PC. Estudando sobre os programas de inicialização do S.O. 
+  To do: Orientar grupo a preencher/atualizar o relatório.
 
 
 ## Semana 2 15/02/23
-  Thamara: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter o Grub instalado ela caia em shell.Instalar Grub no P.C. e configurar inicialização de sistema.
+
+Done: Respondi o formulário. Criei a conta no Github. Criei o repositório para o grupo atualizar o relatório.  
+Doing: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter um gerenciador de boot configurado (GRUB) a BIOS derecionou para o Shell do Firmware de boot do Archlinux.
+To do: Configurar Grub e inicialização de sistema no PC.
   
   
   
 ## Semana 1 08/02/2023
-Estamos formando o grupo e decidindo qual projeto iremos fazer.
-  Thamara: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits, estudar/conhecer projeto. Criar grupo, escolher projeto, criar conta Github.
+Done:**
+Doing: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits.
+To do: Estudar/conhecer projeto. Criar grupo, escolher projeto. Criar conta Github.
 
 
