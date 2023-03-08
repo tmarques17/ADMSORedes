@@ -2,9 +2,9 @@
 Semana 5 08/03/23
 
 Caio
-  Done:
-  Doing:
-  To do:
+  Done: Vm criada.
+  Doing: Instalação e configuração do Arch Linux.
+  To do: Instalação do Grub.
 
 Karen
   Done: 
@@ -32,8 +32,8 @@ Thamara
 
 Caio
   Done:
-  Doing:
-  To do:
+  Doing: Criando e configurando a VM.
+  To do: Instalar o Arch Linux.
 
 Karen
   Done: Resolvi o problema da VM estar abrindo em shell
