@@ -7,9 +7,9 @@ Caio
   To do: Instalação do Grub.
 
 Karen
-  Done: 
-  Doing: 
-  To do: 
+  Done: VM instalada
+  Doing: Tentando resolver o problema do código do teclado
+  To do: Resolver o problema do teclado
 
   
 Nelcimar
