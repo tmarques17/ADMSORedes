@@ -23,9 +23,9 @@ Reginaldo
   To do:ok
 
 Thamara
-  Done:
-  Doing:
-  To do:
+  Done: Orientando o grupo a atualizar relatórios e estudar tópicos do projeto.
+  Doing: Refazendo instalação de inicialização da VM.
+  To do: Tirar dúvidas sobre o projeto com o professor.
 
 
 ## Semana 4 01/03/23
