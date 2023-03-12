@@ -47,9 +47,9 @@ Nelcimar
   Pendência: Teclado não est  configurando algumas teclas
   
 Reginaldo
-  Done:
-  Doing:
-  To do:
+  Done: Arch linux rodando ok aqui na vm
+  Doing:Estudando inicializacao do sistema 
+  To do: estudando network conf.concepts.
 
 Thamara
   Done: Configurei inicialização do sistema. Atualizei o relatório. Estudei sobre os programas de incialização do Archlinux 64 bits. 
