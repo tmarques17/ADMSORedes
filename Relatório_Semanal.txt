@@ -86,7 +86,7 @@ Thamara
 
 
 ## Semana 2 15/02/23
-
+Thamara
 Done: Respondi o formulário. Criei a conta no Github. Criei o repositório para o grupo atualizar o relatório.  
 Doing: Enviar formulário preenchido para o professor. Configurar inicialização do sistema das máquinas virtuais/ Importar máquina virtual para o PC, por não ter um gerenciador de boot configurado (GRUB) a BIOS derecionou para o Shell do Firmware de boot do Archlinux.
 To do: Configurar Grub e inicialização de sistema no PC.
@@ -94,6 +94,7 @@ To do: Configurar Grub e inicialização de sistema no PC.
   
   
 ## Semana 1 08/02/2023
+Thamara
 Done:**
 Doing: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64bits.
 To do: Estudar/conhecer projeto. Criar grupo, escolher projeto. Criar conta Github.
