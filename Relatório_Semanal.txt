@@ -14,7 +14,7 @@ Karen
   
 Nelcimar
   Done:  Intalações  dos pacotes completas
-  Doing: Pondo  em pratica o processo de inicializaação
+  Doing: Colocando em pratica o processo de inicialização
   To do: Teclado ainda desconfigurado
 
 Reginaldo
@@ -70,9 +70,9 @@ Karen
   To do: Trocar a configuração da VM e salvar para que ela abra normalmente
   
 Nelcimar
-  Done:
-  Doing:
-  To do:
+  Done:Fui adicionado pelo Grupo no GitHub para atualizar os relatórios semanais 
+  Doing:criando Vm
+  To do: processo de inicialização
 
 Reginaldo
   Done:
