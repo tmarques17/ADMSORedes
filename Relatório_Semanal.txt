@@ -1,4 +1,33 @@
 ##
+Semana 6 15/03/23
+
+Caio
+  Done: Instalação do Arch Linux.
+  Doing: Instalando o grub e estudando sobre boot-loaders
+  To do: Servidor DHCP.
+
+Karen
+  Done: 
+  Doing: 
+  To do: 
+
+  
+Nelcimar
+  Done:  
+  Doing: 
+  To do: 
+
+Reginaldo
+  Done:
+  Doing:
+  To do:
+
+Thamara
+  Done: Tirar dúvidas.
+  Doing: Aguardando próximos passos.
+  To do: 
+
+
 Semana 5 08/03/23
 
 Caio
@@ -25,7 +54,7 @@ Reginaldo
 Thamara
   Done: Orientando o grupo a atualizar relatórios e estudar tópicos do projeto.
   Doing: Refazendo instalação de inicialização da VM.
-  To do: Tirar dúvidas sobre o projeto com o professor.
+  To do: Tirar dúvidas sobre o projeto.
 
 
 ## Semana 4 01/03/23
