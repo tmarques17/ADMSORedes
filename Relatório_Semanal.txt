@@ -67,9 +67,9 @@ Caio
   To do: 
 
 Karen
-  Done: DNS - Overview
-  Doing: Estudando DNS
-  To do: Estudar Servidor DHCP
+  Done: 
+  Doing: 
+  To do:
 
   
 Nelcimar
@@ -99,7 +99,7 @@ Caio
 Karen
   Done: Ainda tendo problemas com o teclado da VM
   Doing: Tentando resolver o problema do teclado
-  To do: Estudar DNS
+  To do: Estudar servidor DHCP
 
   
 Nelcimar
