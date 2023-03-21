@@ -7,9 +7,9 @@ Caio
   To do: Servidor DHCP.
 
 Karen
-  Done: 
-  Doing: 
-  To do: 
+  Done: Ainda tendo problemas com o teclado da VM
+  Doing: Tentando resolver o problema do teclado
+  To do: Estudar DNS
 
   
 Nelcimar
