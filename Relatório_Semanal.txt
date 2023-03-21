@@ -67,9 +67,9 @@ Caio
   To do: 
 
 Karen
-  Done: 
-  Doing: 
-  To do:
+  Done: DNS - Overview
+  Doing: Estudando DNS
+  To do: Estudar Servidor DHCP
 
   
 Nelcimar
