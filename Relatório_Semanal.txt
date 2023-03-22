@@ -83,7 +83,7 @@ Reginaldo
   To do:
 
 Thamara
-  Done: 
+  Done: Estudar servidor DHCP
   Doing:
   To do: 
 
@@ -115,7 +115,7 @@ Reginaldo
 Thamara
   Done: Tirar dúvidas.
   Doing: Aguardando próximos passos.
-  To do: 
+  To do: Servidor DHCP
 
 
 Semana 5 08/03/23
