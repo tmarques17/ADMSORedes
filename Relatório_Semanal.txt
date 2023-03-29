@@ -68,8 +68,8 @@ Caio
 
 Karen
   Done: Estudo servidor de DHCP
-  Doing: tentando replicar o que fizemos em aula na minha VM
-  To do: Conferir se deu certo
+  Doing: Estudando Servidor DHCP
+  To do: Estudar DNS
 
   
 Nelcimar
