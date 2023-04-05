@@ -14,7 +14,7 @@ Karen
 
   
 Nelcimar
-  Done:  
+  Done: 
   Doing: 
   To do: 
 
@@ -44,7 +44,7 @@ Karen
 
   
 Nelcimar
-  Done:  
+  Done: estudando sobre servidor NAT 
   Doing: 
   To do: 
 
@@ -73,8 +73,8 @@ Karen
 
   
 Nelcimar
-  Done:  
-  Doing: 
+  Done: estudo sobre servidor de DHCP
+  Doing: estudando DNS
   To do: 
 
 Reginaldo
@@ -103,7 +103,7 @@ Karen
 
   
 Nelcimar
-  Done:  
+  Done: aguardando próximos passos de estudo
   Doing: 
   To do: 
 
