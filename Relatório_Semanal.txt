@@ -3,9 +3,9 @@
 Semana 9 05/04/23
 
 Caio
-  Done: 
-  Doing: 
-  To do: 
+  Done: estudo sobre servidor NAT
+  Doing: Como otimizar linux para dektop
+  To do: Focar mais em serivdor NAT
 
 Karen
   Done: 
@@ -33,9 +33,9 @@ Thamara
 Semana 8 29/03/23
 
 Caio
-  Done: 
-  Doing: 
-  To do: 
+  Done: estudo sobre DHCP
+  Doing: Estudando sobre servidor NAT
+  To do: Como otimizar Linux para desktop
 
 Karen
   Done: 
@@ -62,8 +62,8 @@ Thamara
 Semana 7 22/03/23
 
 Caio
-  Done: 
-  Doing: 
+  Done: Estudo sobre bootloaders
+  Doing: estudando sobre DHCP
   To do: 
 
 Karen
