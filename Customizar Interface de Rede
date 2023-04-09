@@ -1,6 +1,6 @@
 Verificar a/as redes. Comando: ip address
-Para descobrir o MAC (por exemplo: 00:00:00:aa:00:aa). Comando: cat/sys/class/net/eth0/addres
-*Criar entrada no diretório. Comando sudo nano /etc/udev/rules.d/10-network.rules
+Para descobrir o MAC (por exemplo: 00:00:00:aa:00:aa). Digite: cat/sys/class/net/eth0/addres
+*Criar entrada no diretório. Digite: sudo nano /etc/udev/rules.d/10-network.rules
 Digitar no nano: SUBSYSTEM=="net",ACTION=="add",ATTR{address}=="00:00:00:aa:00:aa" NAME="iface0"
 Ctrl+O+ENTER para salvar.
 Ctrl+x+ENTER para sair.
