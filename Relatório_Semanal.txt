@@ -1,4 +1,25 @@
 ##
+Semama 10 11/04/23 
+
+ Caio
+   Done:
+   Doing:
+   To do:
+  
+  Karen
+    Done:
+    Doing:
+    To do:
+    
+   Neucimar
+     Done:
+     Doing:
+     To do:
+      
+   Thamara
+    Done:
+    Doing:
+    To do:
 
 Semana 9 05/04/23
 
@@ -24,9 +45,9 @@ Reginaldo
   To do:
 
 Thamara
-  Done: 
-  Doing:
-  To do: 
+  Done: Costumizar interface de rede.
+  Doing: Verificar costumização de rede.
+  To do: Servidor DHCP servidor e cliente.
 
 
 
@@ -54,9 +75,9 @@ Reginaldo
   To do:
 
 Thamara
-  Done: 
-  Doing:
-  To do: 
+  Done: Estudar servidor DHCP
+  Doing: Preparar máquina para Pam 2 fatores
+  To do: Costumizar interface de rede
 
 
 Semana 7 22/03/23
