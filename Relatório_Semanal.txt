@@ -20,6 +20,11 @@ Semama 10 11/04/23
     Done:
     Doing:
     To do:
+    
+    Reginaldo
+    Done:Foram configuradas 3 interfaces no servidor sendo uma em modo Bridge (WAN) e criada as tabelas de rotas clientes/servidor para testar a conexao.
+    Doing:Estudando DHCP
+    to do:focar no DNS 
 
 Semana 9 05/04/23
 
