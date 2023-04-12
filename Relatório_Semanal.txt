@@ -7,9 +7,9 @@ Semama 10 11/04/23
    To do:
   
   Karen
-    Done:
-    Doing:
-    To do:
+    Done:Estudo DNS
+    Doing:configurar interfaces
+    To do:aplicar a configuração das interfaces
     
    Neucimar
      Done:
