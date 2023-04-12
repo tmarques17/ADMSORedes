@@ -93,8 +93,8 @@ Caio
   To do: 
 
 Karen
-  Done: Estudo servidor de DHCP
-  Doing: Estudando Servidor DHCP
+  Done: Estudo servidor DHCP
+  Doing: Estudando DNS
   To do: Estudar DNS
 
   
