@@ -275,3 +275,4 @@ Doing: Apresentação do projeto, Criar máquina virtual com o S.O. ArchLinux 64
 To do: Estudar/conhecer projeto. Criar grupo, escolher projeto. Criar conta Github.
 
 
+#
