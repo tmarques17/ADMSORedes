@@ -1,5 +1,5 @@
 ##
-Semana 11 18/04/23
+Semana 11 19/04/23
 
 Caio
   Done: 
@@ -34,7 +34,7 @@ Semama 10 12/04/23
  Caio
    Done:  Como otimizar linux para dektop
    Doing: Estudando sobre servidor NAT
-   To do: CRiar máquina cliente com 2 S.O 
+   To do: Criar máquina cliente com 2 S.O 
   
   Karen
     Done:Estudo DNS
