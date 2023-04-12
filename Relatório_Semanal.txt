@@ -64,9 +64,9 @@ Caio
   To do: Como otimizar Linux para desktop
 
 Karen
-  Done: 
-  Doing: 
-  To do:
+  Done: Estudo servidor DHCP
+  Doing: Pesquisando PAM
+  To do:estudar DNS
 
   
 Nelcimar
