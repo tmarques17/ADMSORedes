@@ -2,9 +2,9 @@
 Semana 11 19/04/23
 
 Caio
-  Done: 
-  Doing: 
-  To do: 
+  Done: Criação da VM com 2 SOs
+  Doing: Configurando grub. obs: O grub não está reconhecendo o windows
+  To do: Terminar configuração do grub
 
 Karen
   Done: 
