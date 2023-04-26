@@ -1,4 +1,32 @@
 ##
+
+Semana 25/04/2023
+
+Caio
+      Done:
+      Doing:
+      To do:
+  
+Karen
+       Done:
+       Doing:
+       To do:
+  
+Nelcimar
+       Done:
+       Doing:
+       To do:
+  
+Reginaldo
+       Done:
+       Doing:
+       To do:
+  
+Thamara
+      Done: Preparando máquina para o Pam em 2 fatores.
+      Doing: Tentando fazer o Pam em 2 fatores.
+      To do: Finalizar o Pam.
+
 Semana 11 19/04/23
 
 Caio
@@ -23,9 +51,9 @@ Reginaldo
   To do:
 
 Thamara
-  Done:
-  Doing: 
-  To do: 
+  Done: Configur servidor DNS.
+  Doing: Preparando máquina para o PAM em 2 fatores.
+  To do: Criar usuário e token de bot telegram.
 
 
 
@@ -47,9 +75,9 @@ Semama 10 12/04/23
      To do:
       
    Thamara
-    Done:
-    Doing:
-    To do:
+    Done: Costumizar 3 interface de rede.
+    Doing: Instalando servidor DHCP (pc)
+    To do: Instalar e configurar servidor DNS (fatec)
     
     Reginaldo
     Done:Foram configuradas 3 interfaces no servidor sendo uma em modo Bridge (WAN) e criada as tabelas de rotas clientes/servidor para testar a conexao.
