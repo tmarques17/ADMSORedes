@@ -1,6 +1,6 @@
 ##
 
-Semana 25/04/2023
+Semana 13 03/05/2023
 
 Caio
       Done:
@@ -8,9 +8,36 @@ Caio
       To do:
   
 Karen
+       Done: replicar o Pam sem sucesso
+       Doing: working on PAM
+       To do: finalizar PAM
+  
+Nelcimar
        Done:
        Doing:
        To do:
+  
+Reginaldo
+       Done:
+       Doing:
+       To do:
+  
+Thamara
+      Done:
+      Doing: 
+      To do: 
+
+Semana 12 25/04/2023
+
+Caio
+      Done:
+      Doing:
+      To do:
+  
+Karen
+       Done:Interfaces da VM2 costumizadas
+       Doing:Pesquisando e tentando replicar PAM
+       To do: hopefully finalizar PAM 
   
 Nelcimar
        Done:
@@ -35,9 +62,9 @@ Caio
   To do: Terminar configuração do grub
 
 Karen
-  Done: 
-  Doing: 
-  To do:
+  Done: Interfaces VM1 prontas
+  Doing: Continuo costumizando interfaces VM2
+  To do:Pesquisar e tentar replicar PAM
 
   
 Nelcimar
@@ -66,8 +93,8 @@ Semama 10 12/04/23
   
   Karen
     Done:Estudo DNS
-    Doing:configurar interfaces
-    To do:aplicar a configuração das interfaces
+    Doing:costumizar as interfaces VM1
+    To do:aplicar a configuração das interfaces na segunda VM2
     
    Neucimar
      Done:
@@ -92,9 +119,9 @@ Caio
   To do: Focar mais em serivdor NAT
 
 Karen
-  Done: 
-  Doing: 
-  To do:
+  Done: DNS estudo 
+  Doing: DNS estudando ainda
+  To do: Costumizar as Interfaces
 
   
 Nelcimar
