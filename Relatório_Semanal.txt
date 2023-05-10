@@ -1,11 +1,27 @@
+Semana 13 10/05/2023
+
+Caio
+      Done: Procuarando soluções pq o NAT não funcionou.
+      Doing: Aparentemente NAT configurado corretamente.
+      To do: Estudar sobre o PAM.
+  
+Karen
+       Done: 
+       Doing: 
+       To do: 
+   
+Thamara
+      Done:
+      Doing: 
+      To do: 
 ##
 
 Semana 13 03/05/2023
 
 Caio
-      Done:
-      Doing:
-      To do:
+      Done: Procuarando soluções pq o NAT não funcionou.
+      Doing: Estudando NAT.
+      To do: Terminar NAT e estudar sobre o PAM.
   
 Karen
        Done: replicar o Pam sem sucesso
@@ -30,9 +46,9 @@ Thamara
 Semana 12 25/04/2023
 
 Caio
-      Done:
-      Doing:
-      To do:
+      Done: Sistema com 2 SOs instalado ok.
+      Doing: Tentanto fazer NAT.
+      To do: Concluir as configurações do NAT.
   
 Karen
        Done:Interfaces da VM2 costumizadas
