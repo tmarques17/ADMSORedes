@@ -1,12 +1,15 @@
-Verificar a/as redes. Digite: ip address
-Para descobrir o MAC (por exemplo: 00:00:00:aa:00:aa). Digite: cat/sys/class/net/eth0/address
-*Criar entrada no diretório. Digite: sudo nano /etc/udev/rules.d/10-network.rules
-Digitar no nano: SUBSYSTEM=="net",ACTION=="add",ATTR{address}=="00:00:00:aa:00:aa" NAME="iface0"
-Ctrl+O+ENTER para salvar.
+Verificar a/as redes. 
+Digite: "ip address" para descobrir o MAC (por exemplo: 00:00:00:aa:00:aa)
+Criar entrada/arquivo no diretório. Digite: nano /etc/systemd/network/10-persistent-net.link
+Digitar no arquivo:
+[Match] 
+MACAddress="colocar o macaddress aqui"
+[Link]
+Name="colocar o nome que deseja aqui".
+Ctrl+o+ENTER para salvar.
 Ctrl+x+ENTER para sair.
-Reinicie a máquina.
+Reboot. 
 
 
-COMANDOS para Arch Linux
-Arquivo de texto 10 regras de rede que servirá como um processador antes do padrão udev. (dúvidas)
-Usamos sudo porque precisamos acessar um arquivo que requer essa permissão para agir. (dúvidas)
+OBS:se tiver mais interfaces de rede para renomear, 
+crie outros arquivos (exemplo: "11-persistent-net.link" , "12-persistent-net.link"...).
