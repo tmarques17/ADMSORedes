@@ -111,9 +111,9 @@ Thamara
 Semana 14 10/05/2023
 
 Caio
-      Done: Procuarando soluções pq o NAT não funcionou.
-      Doing: Aparentemente NAT configurado corretamente.
-      To do: Estudar sobre o PAM.
+      Done: 
+      Doing: 
+      To do: 
   
 Karen
        Done: 
@@ -123,8 +123,7 @@ Karen
 Thamara
       Done:
       Doing: 
-      To do: 
-##
+      To do:
 
 Semana 13 03/05/2023
 
@@ -137,17 +136,8 @@ Karen
        Done: replicar o Pam sem sucesso
        Doing: working on PAM
        To do: finalizar PAM
-  
-Nelcimar
-       Done:
-       Doing:
-       To do:
-  
-Reginaldo
-       Done:
-       Doing:
-       To do:
-  
+
+
 Thamara
       Done:
       Doing: 
@@ -164,16 +154,6 @@ Karen
        Done:Interfaces da VM2 costumizadas
        Doing:Pesquisando e tentando replicar PAM
        To do: hopefully finalizar PAM 
-  
-Nelcimar
-       Done:
-       Doing:
-       To do:
-  
-Reginaldo
-       Done:
-       Doing:
-       To do:
   
 Thamara
       Done: Preparando máquina para o Pam em 2 fatores.
@@ -192,126 +172,11 @@ Karen
   Doing: Continuo costumizando interfaces VM2
   To do:Pesquisar e tentar replicar PAM
 
-  
-Nelcimar
-  Done: 
-  Doing: 
-  To do: 
-
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Configur servidor DNS.
   Doing: Preparando máquina para o PAM em 2 fatores.
   To do: Criar usuário e token de bot telegram.
-
-
-
-
-Semana 13 10/05/2023
-
-Caio
-      Done: Procuarando soluções pq o NAT não funcionou.
-      Doing: Aparentemente NAT configurado corretamente.
-      To do: Estudar sobre o PAM.
-  
-Karen
-       Done: 
-       Doing: 
-       To do: 
-   
-Thamara
-      Done:
-      Doing: 
-      To do: 
-##
-
-Semana 13 03/05/2023
-
-Caio
-      Done: Procuarando soluções pq o NAT não funcionou.
-      Doing: Estudando NAT.
-      To do: Terminar NAT e estudar sobre o PAM.
-  
-Karen
-       Done: replicar o Pam sem sucesso
-       Doing: working on PAM
-       To do: finalizar PAM
-  
-Nelcimar
-       Done:
-       Doing:
-       To do:
-  
-Reginaldo
-       Done:
-       Doing:
-       To do:
-  
-Thamara
-      Done:
-      Doing: 
-      To do: 
-
-Semana 12 25/04/2023
-
-Caio
-      Done: Sistema com 2 SOs instalado ok.
-      Doing: Tentanto fazer NAT.
-      To do: Concluir as configurações do NAT.
-  
-Karen
-       Done:Interfaces da VM2 costumizadas
-       Doing:Pesquisando e tentando replicar PAM
-       To do: hopefully finalizar PAM 
-  
-Nelcimar
-       Done:
-       Doing:
-       To do:
-  
-Reginaldo
-       Done:
-       Doing:
-       To do:
-  
-Thamara
-      Done: Preparando máquina para o Pam em 2 fatores.
-      Doing: Tentando fazer o Pam em 2 fatores.
-      To do: Finalizar o Pam.
-
-Semana 11 19/04/23
-
-Caio
-  Done: Criação da VM com 2 SOs
-  Doing: Configurando grub. obs: O grub não está reconhecendo o windows
-  To do: Terminar configuração do grub
-
-Karen
-  Done: Interfaces VM1 prontas
-  Doing: Continuo costumizando interfaces VM2
-  To do:Pesquisar e tentar replicar PAM
-
-  
-Nelcimar
-  Done: 
-  Doing: 
-  To do: 
-
-Reginaldo
-  Done:
-  Doing:
-  To do:
-
-Thamara
-  Done: Configur servidor DNS.
-  Doing: Preparando máquina para o PAM em 2 fatores.
-  To do: Criar usuário e token de bot telegram.
-
-
 
 Semama 10 12/04/23 
 
@@ -325,12 +190,7 @@ Semama 10 12/04/23
     Doing:costumizar as interfaces VM1
     To do:aplicar a configuração das interfaces na segunda VM2
     
-   Neucimar
-     Done:
-     Doing:
-     To do:
-      
-   Thamara
+    Thamara
     Done: Costumizar 3 interface de rede.
     Doing: Instalando servidor DHCP (pc)
     To do: Instalar e configurar servidor DNS (fatec)
