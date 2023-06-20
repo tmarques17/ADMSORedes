@@ -7,13 +7,13 @@ Caio
   
 Karen
        Done: terminando as configurações
-       Doing: Estudando para apresentação
-       To do: Apresentar o trabalho FINAL
+       Doing: estudando para apresentação
+       To do: apresentar o trabalho FINAL
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: Revisando as configurações das VMs
+      Doing: Estudando para a apresentaçāo
+      To do: Apresentação
 
 
 Semana 19 14/06/2023
@@ -29,9 +29,9 @@ Karen
        To do: get both machines setup up
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: Apache
+      Doing: Retomar o PAM
+      To do: Finalizar PAM
 
 
 
@@ -48,9 +48,9 @@ Karen
        To do: try to do dual boot
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: NFS funcionando
+      Doing: Estudar Apache (php + https)
+      To do: Testar Apache
 
 
 
