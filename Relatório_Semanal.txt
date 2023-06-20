@@ -67,9 +67,9 @@ Karen
        To do: Apply NFS
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: Troca de chaves de ssh servidor/cliente
+      Doing: Estudar NFS
+      To do: Testar NFS
 
 
 Semana 16 24/05/2023
@@ -85,9 +85,9 @@ Karen
        To do: study ssh with keys server/client
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: crontab e rsync
+      Doing: Estudar ssh 
+      To do:Estudar e aplicar ssh chaves
 
 
 Semana 15 17/05/2023
@@ -98,14 +98,14 @@ Caio
       To do: 
   
 Karen
-       Done: rsync done
+       Done: rsync
        Doing: studying tool crontab
        To do: apply crontab
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: Rsync
+      Doing: Estudar o crontab
+      To do: Testar crontab usando rsync
 
 
 Semana 14 10/05/2023
@@ -121,27 +121,27 @@ Karen
        To do: apply rsync
    
 Thamara
-      Done:
-      Doing: 
-      To do:
+      Done: Continuamos com problema no PAM
+      Doing: Estudar rsync
+      To do: Fazer rsync
 
 Semana 13 03/05/2023
 
 Caio
-      Done: Procuarando soluções pq o NAT não funcionou.
+      Done: Procurando soluções pq o NAT não funcionou.
       Doing: Estudando NAT.
       To do: Terminar NAT e estudar sobre o PAM.
   
 Karen
        Done: replicar o Pam sem sucesso
        Doing: working on PAM
-       To do: finalizar PAM
+       To do: finalize PAM
 
 
 Thamara
-      Done:
-      Doing: 
-      To do: 
+      Done: Continuo tendo problemas com o PAM
+      Doing: tentando o PAM
+      To do: finalizar o PAM
 
 Semana 12 25/04/2023
 
@@ -192,7 +192,7 @@ Semama 10 12/04/23
     
     Thamara
     Done: Costumizar 3 interface de rede.
-    Doing: Instalando servidor DHCP (pc)
+    Doing: Instalando servidor DHCP novamente (pc)
     To do: Instalar e configurar servidor DNS (fatec)
     
     Reginaldo
@@ -239,7 +239,7 @@ Nelcimar
 
 
 Thamara
-  Done: Estudar servidor DHCP
+  Done: DHCP
   Doing: Preparar máquina para Pam 2 fatores
   To do: Costumizar interface de rede
 
@@ -264,8 +264,8 @@ Nelcimar
 
 Thamara
   Done: Estudar servidor DHCP
-  Doing:
-  To do: 
+  Doing: Tentando replicar o DHCP na VM
+  To do: testar DHCP na VM cliente
 
 
 
@@ -286,11 +286,6 @@ Nelcimar
   Done: aguardando próximos passos de estudo
   Doing: 
   To do: 
-
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Tirar dúvidas.
@@ -373,10 +368,6 @@ Nelcimar
   Doing:criando Vm
   To do: processo de inicialização
 
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Escolhemos a opção 1 de projeto, criamos conta no Github, enviamos formulário para o professor. Atualizamos o relatório.
