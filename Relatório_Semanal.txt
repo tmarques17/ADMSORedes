@@ -24,9 +24,9 @@ Caio
       To do: 
   
 Karen
-       Done: Dual boot is not working
-       Doing: 
-       To do: 
+       Done: Dual boot still not working
+       Doing: finishing all configurations
+       To do: get both machines setup up
    
 Thamara
       Done:
