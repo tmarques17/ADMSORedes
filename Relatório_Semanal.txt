@@ -212,22 +212,11 @@ Karen
   Doing: DNS estudando ainda
   To do: Costumizar as Interfaces
 
-  
-Nelcimar
-  Done: 
-  Doing: 
-  To do: 
-
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Costumizar interface de rede.
   Doing: Verificar costumização de rede.
   To do: Servidor DHCP servidor e cliente.
-
 
 
 Semana 8 29/03/23
@@ -248,10 +237,6 @@ Nelcimar
   Doing: 
   To do: 
 
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Estudar servidor DHCP
@@ -276,11 +261,6 @@ Nelcimar
   Done: estudo sobre servidor de DHCP
   Doing: estudando DNS
   To do: 
-
-Reginaldo
-  Done:
-  Doing:
-  To do:
 
 Thamara
   Done: Estudar servidor DHCP
