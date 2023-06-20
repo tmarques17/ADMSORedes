@@ -24,7 +24,7 @@ Caio
       To do: 
   
 Karen
-       Done: 
+       Done: Dual boot is not working
        Doing: 
        To do: 
    
@@ -43,9 +43,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: NFS 
+       Doing: Studying Dual boot
+       To do: try to do dual boot
    
 Thamara
       Done:
