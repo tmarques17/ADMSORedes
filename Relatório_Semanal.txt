@@ -6,9 +6,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: terminando as configurações
+       Doing: Estudando para apresentação
+       To do: Apresentar o trabalho FINAL
    
 Thamara
       Done:
@@ -62,9 +62,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: exchange of ssh/keys between server and client
+       Doing: studying NFS
+       To do: Apply NFS
    
 Thamara
       Done:
@@ -80,9 +80,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: crontab and rsync done
+       Doing: studying ssh with keys
+       To do: study ssh with keys server/client
    
 Thamara
       Done:
@@ -98,9 +98,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: rsync done
+       Doing: studying tool crontab
+       To do: apply crontab
    
 Thamara
       Done:
@@ -116,9 +116,9 @@ Caio
       To do: 
   
 Karen
-       Done: 
-       Doing: 
-       To do: 
+       Done: still having problems with PAM
+       Doing: studying about rsync
+       To do: apply rsync
    
 Thamara
       Done:
