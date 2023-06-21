@@ -1,9 +1,9 @@
 Semana 20 21/06/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: Autenticação em 2 fatores com Pam implementado
+      Doing: Tic Stack não conclui a instalação. Influxdb instala mas telegraf da erro em todas as formas testadas.
+      To do: Apresentação do projeto. 
   
 Karen
        Done: terminando as configurações
@@ -19,9 +19,9 @@ Thamara
 Semana 19 14/06/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: Crontab com rsync funcionando
+      Doing: Autenticação em 2 fatores com Pam
+      To do: estudar TIC Stack 
   
 Karen
        Done: Dual boot still not working
@@ -38,9 +38,9 @@ Thamara
 Semana 18 07/06/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: NFS implementado
+      Doing: reproduzindo crontab com rsync para espelhamento (sincronização)
+      To do: implementar Pam2fa
   
 Karen
        Done: NFS 
@@ -57,9 +57,9 @@ Thamara
 Semana 17 31/05/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: SSH configurado e funcionando
+      Doing: Configurando NFS
+      To do: Estudar e implementar crontab com rsync
   
 Karen
        Done: exchange of ssh/keys between server and client
@@ -75,9 +75,9 @@ Thamara
 Semana 16 24/05/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: DNS implementado
+      Doing: Acesso via SSH com e sem senha
+      To do: Estudar e implementar NFS
   
 Karen
        Done: crontab and rsync done
@@ -93,9 +93,9 @@ Thamara
 Semana 15 17/05/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: Dhcp implementado
+      Doing: Implementando DNS
+      To do: estudar e configurar SSH
   
 Karen
        Done: rsync
@@ -111,9 +111,9 @@ Thamara
 Semana 14 10/05/2023
 
 Caio
-      Done: 
-      Doing: 
-      To do: 
+      Done: estudo sobre o Pam2fa pausado para replicar os assuntos feito em aula.
+      Doing: renomeando interfaces
+      To do: instalação econfiguração do dhcp
   
 Karen
        Done: still having problems with PAM
